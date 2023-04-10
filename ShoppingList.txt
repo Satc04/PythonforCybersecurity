@@ -3,6 +3,4 @@ Bread
 Bananas
 Eggs
 cereal
-potato chips
-Cookies
 trash bags
