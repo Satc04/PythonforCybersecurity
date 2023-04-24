@@ -4,4 +4,5 @@
 print ("Is Today a good day? (y/n)")
 response = input()
 if response == "y": 
-    for x in range(10):print("Yeah it is")
+    for x in range(10):
+        print("Yeah it is")
