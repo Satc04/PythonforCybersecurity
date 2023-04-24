@@ -2,4 +2,6 @@
 # example working with conditionals
 #By Satveer C
 print ("Is Today a good day? (y/n)")
-print("Yes it is")
+response = input()
+if response == "y": 
+    print("Yes it is")
