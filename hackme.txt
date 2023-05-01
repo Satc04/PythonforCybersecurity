@@ -1,0 +1,6 @@
+print "Here is somoeone to hack - information"
+Print ("John")
+Print ("blue")
+Print ("ben")
+Print ("may")
+Print ("Yorkdale")
